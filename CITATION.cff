@@ -1,1 +1,66 @@
-https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8432408
+cff-version: 1.2.0
+message: >-
+  If you use this code or its capability profiles, please cite the
+  accompanying paper listed under preferred-citation.
+title: "capability-profiles-hf"
+abstract: >-
+  Reads LLM benchmark scores as capability profiles rather than rankings:
+  what Hugging Face leaderboard results measure about a model, and what
+  they leave out. Companion code to "LLM Benchmarks as Cognitive
+  Inventories: What They Measure and What They Miss."
+type: software
+authors:
+  - given-names: Lucas E.
+    family-names: Wall
+    orcid: "https://orcid.org/0009-0000-2813-9184"
+    affiliation: "The Catholic University of America, Busch School of Business and Economics; Almma.AI"
+repository-code: "https://github.com/Lucas-almma/capability-profiles-hf"
+url: "https://almma.ai/blog/ai-intellectual-ability-delegation-systems-research-canon/"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-18"
+keywords:
+  - llm-evaluation
+  - llm-benchmarks
+  - huggingface
+  - open-llm-leaderboard
+  - capability-profiles
+  - cognitive-inventory
+  - intellectual-ability
+  - system-level-ai
+preferred-citation:
+  type: article
+  title: "LLM Benchmarks as Cognitive Inventories: What They Measure and What They Miss"
+  authors:
+    - given-names: Lucas E.
+      family-names: Wall
+      orcid: "https://orcid.org/0009-0000-2813-9184"
+      affiliation: "The Catholic University of America, Busch School of Business and Economics; Almma.AI"
+  journal: "SSRN Electronic Journal"
+  year: 2026
+  month: 6
+  doi: "10.2139/ssrn.6938178"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6938178"
+references:
+  - type: article
+    title: "Unbenchmarked but Essential: Delegation, Escalation, and Persistence as Intellectual Capabilities"
+    authors:
+      - given-names: Lucas E.
+        family-names: Wall
+        orcid: "https://orcid.org/0009-0000-2813-9184"
+    journal: "SSRN Electronic Journal"
+    year: 2026
+    month: 6
+    doi: "10.2139/ssrn.7003698"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7003698"
+  - type: article
+    title: "Beyond Accuracy: A Capability-Complete Definition of AI Intellectual Ability"
+    authors:
+      - given-names: Lucas E.
+        family-names: Wall
+        orcid: "https://orcid.org/0009-0000-2813-9184"
+    journal: "SSRN Electronic Journal"
+    year: 2026
+    month: 7
+    doi: "10.2139/ssrn.6966421"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966421"
